@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-widthm initial-scale=1"/>
+	<meta name="keywords" content="maps,cartography"/>
+	<title>Christina Dennis</title>
+	<link rel="icon" href="../assets/favicon.png" type="image/png" sizes="16x16">
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg navbar-default">
+	<div class="container">
+		<div class="navbar">
+			<button type="button" class="navbar-toggler" 
+			data-toggle="collapse" data-target="#navbar-header" 
+			aria-expanded="false" aria-controls="navbar-header"> 
+				<span class="sr-only">Toggle navigation</span>
+				<svg width="1em" height="1em" viewBox="0 0 16 16"
+				 class="bi bi-list" xmlns="https://www.w3.org/2000/svg">
+				  <path fill-rule="evenodd" d="M2.5 11.5A.5.5 0 0 1 3 11h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 3 3h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" /></svg>
+				  <span class="menu"> Menu</span>
+				</button>
+				<a class="navbar-brand" href="../index.html">Christina Dennis</a>
+			</div>
+			<div id="navbar-header" class="collapse navbar-collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html#Maps">Maps</a></li>
+
+					<li><a href="../about.html">About</a></li>
+					<li><a href="../resume.html">Resume</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<script type="text/javascript" src="../lib/jquery-3.5.1.min.js"></script>
+	<script type="text/javascript" src="../lib/bootstrap.min.js"></script>
+	<div class ="container">
+	<div class="row">
+			<div class="col-md-12">
+				<h3>Fun With Blender</h3>
+				<p>I discovered Blender (3D rendering software) when my advisor suggested I use it to create the basemap for my Senior Honors Thesis <a href="../portfolio/lwsr.html">map</a>, and I followed Daniel Huffman's <a href="https://somethingaboutmaps.wordpress.com/2017/11/16/creating-shaded-relief-in-blender/">shaded relief tutorial</a>. This led me to make other elevation maps just for fun! Below is a DEM of central Wisconsin that I clipped from the WI DNR's statewide DEM to use as an input in Blender.</p>
+				<img class="card-img-top"
+				src="../assets/elkhart_dem.jpg">
+				<p>In February of 2022, I attended and presented at the Wisconsin Land Information Association's annual conference in Elkhart Lake. The terrain around Fond du Lac and Elkhart Lake shows distinct evidence of its glacial past, which makes for an awesome relief map. East of Lake Winnebago, you can see a field of drumlins that look like little snails all facing the same direction. South of the lake, right outside of Fond du Lac, you see the Niagra Escarpment that I've visited in multiple spots in Wisconsin. It's most obvious in Door County where you can stand on the bluffs and look over Lake Michigan. Below is the shaded relief from Blender.</p>
+				<img class="card-img-top"
+				src="../assets/elkhart_hillshade.jpg">
+				<p>This is the shaded relief combined with a color ramp I manipulated in QGIS.</p>
+				<img class="card-img-top"
+				src="../assets/elkhart_colored.jpg">
+				<p>Below is the official basemap of my Lower Wisconsin River <a href="../portfolio/lwsr.html">map</a>. I combined a custom ArcGIS Pro color ramp with the hillshade in Adobe Photoshop, using another one of Daniel's <a href="https://somethingaboutmaps.wordpress.com/2014/10/26/adding-shaded-relief-in-photoshop/">tutorials</a>. This part of Wisconsin looks amazing as a shaded relief because you can see the gentle undulations of the Driftless Area cut through by the Wisconsin River, next to the Mississippi to the west, and the Baraboo Hills in the northeast.</p>
+				<img class="card-img-top"
+				src="../assets/cd_lwsr_blender.jpg">
+				
+			</div>
+		</div>
+	</div>
+	<footer>
+		<div class="text-center">
+			<a href="https://twitter.com/xtina_dennis" target="_blank"><i class="fab fa-twitter fa-2x"></i><span class='sr-only'>Twitter</span></a>
+			<a href="https://www.linkedin.com/in/christina-dennis-076588200/" target="_blank"><i class="fab fa-linkedin-in fa-2x"></i><span class='sr-only'>Linkedin</span></a>
+			<a href="https://github.com/cldennis" target="_blank"> <i class="fab fa-github fa-2x"></i><span class='sr-only'>GitHub</span></a>
+			<p><i class="fas fa-copyright"></i></i><span class='sr-only'></span> Christina Dennis, 2022</p>
+		</div>
+    </footer>
+</body>
+</html>
