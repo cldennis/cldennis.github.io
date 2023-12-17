@@ -1,5 +1,5 @@
 .navbar {
-	background-color: #d9b08c; /***light blue***/
+	background-color: #231f20; /***light blue***/
 	border-radius: 0;
 }
 
@@ -26,7 +26,7 @@
 .navbar-toggler {
 	color: #ffffff;
 	border-color: #ffffff;
-	background-color: #116466; /***dark blue***/
+	background-color: #231f20; /***dark blue***/
 	border-radius: 4px;
 	border: 1px solid;
 	fill: #ffffff;
@@ -68,7 +68,7 @@
 }
 
 .card-body {
-	background-color: #10359c; /***dark blue***/
+	background-color: #231f20; /***dark blue***/
 	border-width: 2px;
 	border-style: solid;
 	border-color: #ffffff; /***white***/
@@ -81,22 +81,22 @@ body {
 }
 
 h1 {
-	color: #2c3531;
+	color: #f3e317;
 }
 
 h2 {
-	color: #2c3531; /***light blue***/
+	color: #f3e317; /***light blue***/
 }
 
 h3 {
-	color: #d1e8e2; /***light blue***/
+	color: #f3e317; /***light blue***/
 	font-size: 36px;
 	margin-top: 25px;
 	margin-bottom: 15px;
 }
 
 h4 {
-	color: #d1e8e2; /***light blue***/
+	color: #f3e317; /***light blue***/
 	font-weight: bold
 }
 
@@ -151,7 +151,7 @@ a:hover {
 }
 
 .text {
-  color: #116468;
+  color: #f3e317;
   font-size: 30px;
   position: absolute;
   top: 50%;
@@ -178,32 +178,32 @@ a:hover {
 }
 
 .fa-twitter {
-  color: #cff1ff; /***light blue***/
+  color: #f3e317; /***light blue***/
   padding: 1%;
 }
 
 .fa-twitter:hover {
-	color: #ebb93b; /***mustard***/
+	color: #f3e317; /***mustard***/
 }
 
 .fa-linkedin-in {
-	color: #cff1ff; /***light blue***/
+	color: #f3e317; /***light blue***/
 	padding: 1%;
 }
 
 .fa-linkedin-in:hover {
-	color: #ebb93b; /***mustard***/
+	color: #f3e317; /***mustard***/
 }
 
 .fa-github {
-	color: #cff1ff; /***light blue***/
+	color: #f3e317; /***light blue***/
 	padding: 1%;
 }
 
 .fa-github:hover {
-	color: #ebb93b; /***mustard***/
+	color: #f3e317; /***mustard***/
 }
 
 .fa-copyright {
-	color: #cff1ff; /***light blue***/
+	color: #f3e317; /***light blue***/
 }
