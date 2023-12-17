@@ -4,7 +4,7 @@
 }
 
 .navbar-default .navbar-brand {
-	color: #2c3531; /***forest green***/
+	color: #231f20ff; /***forest green***/
 	font-size: 25px;
 	font-weight: bold;
 }
@@ -18,7 +18,7 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #2c3531; /***forest green***/
+	color: #231f20ff; /***forest green***/
 	font-size: 18px;
 	padding: 8px;
 }
