@@ -1,10 +1,10 @@
 .navbar {
-	background-color: #231f20; /***near black***/
+	background-color: #231f20; /*near black*/
 	border-radius: 0;
 }
 
 .navbar-default .navbar-brand {
-	color: #231f20; /***forest green***/
+	color: #f0cf10; /*near black*/
 	font-size: 25px;
 	font-weight: bold;
 }
@@ -18,7 +18,7 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #231f20; /***near blackn***/
+	color: #231f20; /*near black*/
 	font-size: 18px;
 	padding: 8px;
 }
@@ -26,7 +26,7 @@
 .navbar-toggler {
 	color: #ffffff;
 	border-color: #ffffff;
-	background-color: #231f20; /***near black***/
+	background-color: #231f20; /*near black*/
 	border-radius: 4px;
 	border: 1px solid;
 	fill: #ffffff;
@@ -52,7 +52,7 @@
 	background-size: cover;
 	width: 100%;
 	text-align: center;
-	color: #2c3531; /***light blue***/
+	color: #f0cf10; /***light blue***/
 	text-shadow: 1px 1px 5px #525252; /***dark grey***/
 	padding: 10%;
 	border-radius: 0px;
@@ -68,7 +68,7 @@
 }
 
 .card-body {
-	background-color: #231f20; /***dark blue***/
+	background-color: #231f20; /*near black*/
 	border-width: 2px;
 	border-style: solid;
 	border-color: #ffffff; /***white***/
@@ -76,27 +76,27 @@
 
 body {
 	font-family: 'Baskerville', serif;
-	background-color: #231f20; /***near black***/
+	background-color: #231f20; /*near black*/
 	color: #ffffff;
 }
 
 h1 {
-	color: #f3e317;
+	color: #f0cf10;
 }
 
 h2 {
-	color: #f3e317; /***yellow***/
+	color: #f0cf10; /***yellow***/
 }
 
 h3 {
-	color: #f3e317; /***yellow***/
+	color: #f0cf10; /***yellow***/
 	font-size: 36px;
 	margin-top: 25px;
 	margin-bottom: 15px;
 }
 
 h4 {
-	color: #f3e317; /***yellow***/
+	color: #f0cf10; /***yellow***/
 	font-weight: bold
 }
 
@@ -113,7 +113,7 @@ p {
 }
 
 a:hover {
-	color: #ebb93b; /***mustard***/
+	color: #f0cf10; /***mustard***/
 	text-decoration: none;
 }
 
@@ -151,7 +151,7 @@ a:hover {
 }
 
 .text {
-  color: #231f20; /*near black*/
+  color: #65580d; /*near black*/
   font-size: 30px;
   position: absolute;
   top: 50%;
@@ -178,32 +178,32 @@ a:hover {
 }
 
 .fa-twitter {
-  color: #f3e317; /***light blue***/
+  color: #f0cf10; /***light blue***/
   padding: 1%;
 }
 
 .fa-twitter:hover {
-	color: #f3e317; /***mustard***/
+	color: #f0cf10; /***mustard***/
 }
 
 .fa-linkedin-in {
-	color: #f3e317; /***light blue***/
+	color: #f0cf10; /***light blue***/
 	padding: 1%;
 }
 
 .fa-linkedin-in:hover {
-	color: #f3e317; /***mustard***/
+	color: #f0cf10; /***mustard***/
 }
 
 .fa-github {
-	color: #f3e317; /***light blue***/
+	color: #f0cf10; /***light blue***/
 	padding: 1%;
 }
 
 .fa-github:hover {
-	color: #f3e317; /***mustard***/
+	color: #f0cf10; /***mustard***/
 }
 
 .fa-copyright {
-	color: #f3e317; /***light blue***/
+	color: #f0cf10; /***light blue***/
 }
