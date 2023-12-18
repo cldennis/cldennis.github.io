@@ -4,8 +4,8 @@
 }
 
 .navbar-default .navbar-brand {
-	color: #f0cf10; /*near black*/
-	font-size: 25px;
+	color: #f0cf10; /*yellow*/
+	font-size: 40px;
 	font-weight: bold;
 }
 
@@ -18,7 +18,7 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #65580d ; /*yellow*/
+	color: #f0cf10 ; /*yellow*/
 	font-size: 18px;
 	padding: 8px;
 }
@@ -75,7 +75,7 @@
 }
 
 body {
-	font-family: 'Baskerville', serif;
+	font-family: 'Helvetica', sans serif;
 	background-color: #231f20; /*near black*/
 	color: #ffffff;
 }
@@ -151,8 +151,8 @@ a:hover {
 }
 
 .text {
-  color: #65580d; /*darker yellow, Christina Dennis*/
-  font-size: 50px;
+  color: #65580d; /*darker yellow, cards*/
+  font-size: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
