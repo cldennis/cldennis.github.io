@@ -1,5 +1,5 @@
 .navbar {
-	background-color: #231f20; /***light blue***/
+	background-color: #231f20; /***near black***/
 	border-radius: 0;
 }
 
@@ -18,7 +18,7 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #231f20; /***forest green***/
+	color: #231f20; /***near blackn***/
 	font-size: 18px;
 	padding: 8px;
 }
@@ -26,7 +26,7 @@
 .navbar-toggler {
 	color: #ffffff;
 	border-color: #ffffff;
-	background-color: #231f20; /***dark blue***/
+	background-color: #231f20; /***near black***/
 	border-radius: 4px;
 	border: 1px solid;
 	fill: #ffffff;
@@ -85,18 +85,18 @@ h1 {
 }
 
 h2 {
-	color: #f3e317; /***light blue***/
+	color: #f3e317; /***yellow***/
 }
 
 h3 {
-	color: #f3e317; /***light blue***/
+	color: #f3e317; /***yellow***/
 	font-size: 36px;
 	margin-top: 25px;
 	margin-bottom: 15px;
 }
 
 h4 {
-	color: #f3e317; /***light blue***/
+	color: #f3e317; /***yellow***/
 	font-weight: bold
 }
 
@@ -151,7 +151,7 @@ a:hover {
 }
 
 .text {
-  color: #f3e317;
+  color: #231f20; /*near black*/
   font-size: 30px;
   position: absolute;
   top: 50%;
