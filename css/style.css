@@ -198,7 +198,7 @@ label {
 }
 
 .nicescroll-cursors {
-  background: #fa6862 !important;
+  background: #eca650 !important;
 }
 
 .preloader {
@@ -543,7 +543,7 @@ label {
 
 /* General Resume Styling */
 .resume {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Open Sans', sans-serif;
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
@@ -558,7 +558,7 @@ label {
   font-size: 2.5em;
   font-weight: bold;
   text-align: center;
-  color: #616161;
+  color: #deba93;
   margin-bottom: 20px;
 }
 
@@ -576,6 +576,7 @@ label {
 /* Section Content */
 .section-content {
   font-size: 1em;
+  font-weight: 800;
   line-height: 1.6;
   color: #2f2d2d;
 }
@@ -592,7 +593,7 @@ label {
 /* Lists Styling */
 .resume-list {
   padding-left: 20px;
-  list-style-type: disc;
+  list-style-type: none;
 }
 
 .resume-list li {
@@ -764,11 +765,10 @@ label {
 
 .history-block {
   background-color: #1f311c;
-  ;
   position: relative;
 }
 .history-block .section-title {
-  background-color: #263722;
+  background-color: #13280e;
   border-bottom: 1px solid #263722;
   left: 0;
   margin-bottom: 0;
@@ -842,7 +842,7 @@ label {
   position: relative;
   width: 66px;
   height: 38.11px;
-  background-color: #293342;
+  background-color: #505f4a;
   margin: 19.05px 0;
 }
 .history-hex::before, .history-hex::after {
@@ -854,12 +854,12 @@ label {
 }
 .history-hex::before {
   bottom: 100%;
-  border-bottom: 19.05px solid #293342;
+  border-bottom: 19.05px solid #505f4a;
 }
 .history-hex::after {
   top: 100%;
   width: 0;
-  border-top: 19.05px solid #293342;
+  border-top: 19.05px solid #505f4a;
 }
 
 .service-hex {
@@ -1430,7 +1430,7 @@ label {
   .service-hex:hover .content {
     width: 105%;
   }
-  .service-hex:nth-child(4), .service-hex:nth-child(5) {
+  .service-hex:nth-child(4),.service-hex:nth-child(6) {
     transform: translate(50%, -15%);
   }
   .testimonials .item {
@@ -1465,7 +1465,7 @@ label {
     height: auto;
   }
   .pt-table,
-.pt-tablecell {
+  .pt-tablecell {
     display: block;
   }
   .page-title {
