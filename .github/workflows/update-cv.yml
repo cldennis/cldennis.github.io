@@ -12,14 +12,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install Pandoc
-        run: sudo apt-get update && sudo apt-get install -y pandoc
-
-      - name: Install LaTeX packages
-        run: sudo apt-get update && sudo apt-get install -y texlive-latex-extra texlive-fonts-recommended
-
-      - name: Convert Markdown to PDF
-        run: pandoc cv.md -o cv.pdf
+      - name: Convert Markdown to PDF using Docker
+        run: docker run --rm -v ${{ github.workspace }}:/data pandoc/latex cv.md -o cv.pdf
 
       - name: List files
         run: ls -l
