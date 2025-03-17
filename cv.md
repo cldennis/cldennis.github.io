@@ -1,14 +1,13 @@
 ---
 title: "Christina Dennis"
 author: "cldennis@wisc.edu"
-geometry: margin=1in
+geometry: margin=1in, top=0.5in
 fontsize: 11pt
 linestretch: 1.2
 header-includes:
-  - \usepackage{titling}
-  - \setlength{\droptitle}{-1cm}
   - \setlength{\parskip}{1em}
 ---
+
 
 # Christina Dennis
 
