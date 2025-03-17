@@ -5,9 +5,10 @@ geometry: margin=1in, top=0.25in
 fontsize: 11pt
 linestretch: 1.2
 header-includes:
-  - \setlength{\parskip}{1em}
+  - \newcommand{\bigtext}[1]{{\Large #1}}
+  - \setlength{\parskip}{.5em}
 ---
-## Education
+\bigtext{Education}
 
 ### University of Wisconsin-Madison
 
