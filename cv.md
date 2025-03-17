@@ -6,7 +6,7 @@ fontsize: 11pt
 linestretch: 1.2
 header-includes:
   - \usepackage{titling}
-  - \setlength{\droptitle}{-1cm}  % Adjust this value to move title up or down
+  - \setlength{\droptitle}{-1cm}
   - \setlength{\parskip}{1em}
 ---
 
