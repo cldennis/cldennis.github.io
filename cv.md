@@ -9,6 +9,7 @@ header-includes:
   - \setlength{\parskip}{.5em}
 ---
 
+```{=latex}
 \bigtext{Education}
 
 ### University of Wisconsin-Madison
