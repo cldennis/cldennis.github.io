@@ -12,8 +12,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Convert Markdown to PDF using Docker
-        run: docker run --rm -v ${{ github.workspace }}:/data pandoc/latex cv.md -o cv.pdf -V geometry:margin=1in
+      - name: Convert Markdown to PDF using Docker with full TeXLive
+        run: docker run --rm -v ${{ github.workspace }}:/data blang/latex:ctanfull pandoc cv.md -o cv.pdf -V geometry:margin=1in,top=0.5in
 
       - name: List files
         run: ls -l

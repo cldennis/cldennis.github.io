@@ -20,7 +20,7 @@ header-includes:
 
 **M.S./Ph.D. in Geography**  
 *Advisor:* Holly Gibbs  
-Expected is Graduation 2027
+Expected Graduation 2027
 
 **Bachelor of Arts in Cartography & GIS with Honors**  
 *Senior Honors Thesis:* Incorporating a User-Centered Design Approach into Mapping the Cultural and Natural Resources of the Lower Wisconsin State Riverway  
