@@ -5,12 +5,12 @@ geometry: margin=1in, top=0.25in
 fontsize: 11pt
 linestretch: 1.2
 header-includes:
-  - \setlength{\parskip}{.5em}
+  - \setlength{\parskip}{1em}
 ---
 
-\begin{Large}
+\begin{LARGE}
 Education
-\end{Large}
+\end{LARGE}
 
 ***University of Wisconsin-Madison*** 
 
@@ -22,9 +22,9 @@ Expected Graduation 2027
 *Senior Honors Thesis:* Incorporating a User-Centered Design Approach into Mapping the Cultural and Natural Resources of the Lower Wisconsin State Riverway  
 Graduated: **2022**
 
-\begin{large}
+\begin{LARGE}
 Cartographic and GIS Experience
-\end{large}
+\end{LARGE}
 
 **Research Analyst**
 Gibbs Global Land-Use and Environment Lab
@@ -33,9 +33,9 @@ Gibbs Global Land-Use and Environment Lab
 Andrew Stevens Agricultural Economics Lab
 *Developed a database of Wisconsin farms through time using property data creation pipeline from tax parcels*
 
-\begin{large}
+\begin{LARGE}
 Prior Research Exprience
-\end{large}
+\end{LARGE}
 
 **Wisconsin State Cartographer's Office**
 Sept 2022 to Sept 2023
