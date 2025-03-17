@@ -8,6 +8,7 @@ header-includes:
   - \newcommand{\bigtext}[1]{{\Large #1}}
   - \setlength{\parskip}{.5em}
 ---
+
 \bigtext{Education}
 
 ### University of Wisconsin-Madison
