@@ -28,10 +28,10 @@ Cartographic and GIS Experience
 
 **Research Analyst**
 Gibbs Global Land-Use and Environment Lab
-*Built a national property-level database with tax parcel data*
-*Conducting research on US private property conservation practices*
+* *Built a national property-level database with tax parcel data*
+* *Conducting research on US private property conservation practices*
 Andrew Stevens Agricultural Economics Lab
-*Developed a database of Wisconsin farms through time using property data creation pipeline from tax parcels*
+* *Developed a database of Wisconsin farms through time using property data creation pipeline from tax parcels*
 
 \begin{LARGE}
 Prior Research Exprience
