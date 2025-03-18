@@ -2,10 +2,11 @@
 title: "Christina Dennis"
 author: "cldennis@wisc.edu"
 geometry: margin=1in, top=0.25in
-fontsize: 11pt
-linestretch: 1.2
+fontsize: 10pt
+linestretch: 1.0
 header-includes:
-  - \setlength{\parskip}{1em}
+  - \usepackage{titling}
+  - \setlength{\posttitle}{-1em}
 ---
 
 \begin{LARGE}
