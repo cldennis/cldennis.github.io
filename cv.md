@@ -27,18 +27,25 @@ Cartographic and GIS Experience
 \end{LARGE}
 
 **Research Analyst**
+
 Gibbs Global Land-Use and Environment Lab
-* *Built a national property-level database with tax parcel data*
-* *Conducting research on US private property conservation practices*
+
+- *Built a national property-level database with tax parcel data*
+- *Conducting research on US private property conservation practices*
+
 Andrew Stevens Agricultural Economics Lab
-* *Developed a database of Wisconsin farms through time using property data creation pipeline from tax parcels*
+
+- *Developed a database of Wisconsin farms through time using property data creation pipeline from tax parcels*
 
 \begin{LARGE}
 Prior Research Exprience
 \end{LARGE}
 
 **Wisconsin State Cartographer's Office**
+
 Sept 2022 to Sept 2023
+
 **Research Specialist**
+
 - Led vulnerability assessments with stakeholders in Ashland Co, WI for locally contextual flood
 risk data
