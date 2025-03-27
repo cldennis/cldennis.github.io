@@ -88,6 +88,7 @@ Graduated: **2022**\
 \underline{\LARGE Awards and Presentations}
 
 \begin{itemize}
+\ \textsc{March 2025} \textbf{Trusted Reviewer Status} IOP Publishing
 \item \textsc{January 2025} \textbf{Poster Presenter} GLBRC Annual Review \textsf{\footnotesize Madison WI}
 \item \textsc{May 2024} \textbf{Poster Presenter} GLBRC Annual Science Meeting \textsf{\footnotesize Lake Geneva WI}
 \item \textsc{March 2024} \textbf{Presenter} 14th Annual St Louis River Summit \textsf{\footnotesize Superior WI}
