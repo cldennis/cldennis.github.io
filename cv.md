@@ -22,29 +22,30 @@ Graduated: **2022**\
 
 \underline{\LARGE Cartographic and GIS Experience}
 
-\textbf{\large Resarch Analyst}\
-\textsc{Gibbs Global Land-Use and Environment Lab (GLUE)} \textbf{Jan 2023 to Present}
+\textbf{\large Gibbs Global Land-Use and Environment Lab (GLUE)} \textsl{Jan 2023 to Present}\
+\textsc{\small Resarch Analyst and Assistant}
 \begin{itemize}
 \item \textsf{Built a national property-level database with tax parcel data}
 \item \textsf{Conducting research on US private property conservation practices}
 \end{itemize}
-\textsc{Andrew Stevens Agricultural Economics Lab} \textbf{Sept 2023 to Present}
+\textbf{\large Andrew Stevens Agricultural Economics Lab} \textsl{Sept 2023 to Present}\
+\textsc{\small Resarch Assistant}
 \begin{itemize}
 \item \textsf{Developed a database of Wisconsin farms through time using property data-pipeline from tax parcels}
 \end{itemize}
 
 \underline{\LARGE Prior Research Exprience}
 
-\textsc{Wisconsin State Cartographer's Office}
+\textbf {\large Wisconsin State Cartographer's Office}
 
-\textbf{\large Research Specialist} Sept 2022 to Sept 2023
+\textsc{\small Research Specialist} \textbf{Sept 2022 to Sept 2023}
 \begin{itemize}
 \item \textsf{Led vulnerability assessments with stakeholders in Ashland Co, WI for locally contextual flood risk data}
 \item \textsf{Disaggregated data with dasymetric mapping to create flood risk geodatabase}
 \item \textsf{Created online web tool and documentation for local stakeholders to recreate the process}
 \item \textsf{Led routine field work using web tools for validation}
 \end{itemize}
-\textbf{\large Student Intern} Sept 2021 to May 2022
+\textsc{\small Student Intern} \textbf{Sept 2021 to May 2022}
 \begin{itemize}
 \item \textsf{Developed the Wisconsin Historical Atlas using a combination of ESRI software and ArcGIS Online}
 \item \textsf{Created custom interactive web maps and apps using HTML, CSS< JS, and other frameworks}
@@ -52,18 +53,18 @@ Graduated: **2022**\
 \item \textsf{Madison Oak Mapping map creator for external client}
 \end{itemize}
 
-\textsc{NASA DEVELOP, Science Systems and Applications Inc.}
+\textbf {\large NASA DEVELOP, Science Systems and Applications Inc.}
 
-\textbf{\large Arizona State University Team Member} May 2022 to Aug 2022
+\textsc{\small Arizona State University Team Member} \textbf{May 2022 to Aug 2022}
 \begin{itemize}
 \item \textsf{Incorporated NASA Earth Observations and other remote sensing products to help the City of Albuquerque plan their tree planting initiative to reduce urban heat}
 \item \textsf{Led the modelling and map creation of heat risk mitigation maps and data}
 \item \textsf{Selected as team representative to present project findings at NASA headquarters in D.C.}
 \end{itemize}
 
-\textsc{Wisconsin Sea Grant Institute/UW Cartography Lab}
+\textbf {\large Wisconsin Sea Grant Institute/UW Cartography Lab}
 
-\textbf{\large GIS Student Intern and Research Specialist} Sept 2021 to Aug 2022
+\textsc{\small GIS Student Intern and Research Specialist} \textbf{Sept 2021 to Aug 2022}
 \begin{itemize}
 \item \textsf{Used LiDAR data, ArcPro, GeoPlanner, Story Maps to analyze to plan Green Infrastructure practices}
 \item \textsf{Updated coastal access point data for Wisconsin Coastal Access Inventory using Excel, AGOL, ArcPro}
