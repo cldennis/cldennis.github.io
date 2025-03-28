@@ -38,8 +38,7 @@ Graduated: **2022**\
 \textsc{\small Resarch Assistant}
 \begin{itemize}
 \item \textsf{Developed a database of Wisconsin farms through time using property data-pipeline from tax parcels}
-\end{itemize}
-
+\end{itemize}\
 \textmd{\Large OTHER RESEARCH GIS CARTOGRAPHY EXPERIENCE}
 
 \textbf {\large Wisconsin State Cartographer's Office}
@@ -83,8 +82,7 @@ Graduated: **2022**\
 \item \textsf{Used User-Centered Design methods in cartography to create 40x20 thematic map of Lower Wisconsin Riverway} 
 \item \textsf{Created and monitored online survey to involve end-users in creation process}
 \item \textsf{Held community meetings along the riverway to meet with local users}
-\end{itemize}
-
+\end{itemize}\
 \textmd{\Large AWARDS and PRESENTATIONS}
 
 \begin{itemize}
@@ -102,8 +100,7 @@ Graduated: **2022**\
 \item \textsc{May 2022} \textbf{1st Place Winner} Barbara Bartz Petchenik Award for cartographic excellence, UW Geography Department Undergrad Level \textsf{\footnotesize Madison WI}
 \item \textsc{February 2022} \textbf{Presenter} WI Land Information Association, Annual Conference \textsf{\footnotesize Elkhart Lake WI}
 \item \textsc{June 2021} \textbf{Grant Recipient} UW College of Letters and Science Summer Honors Thesis Research Grant \textsf{\footnotesize Madison WI}
-\end{itemize}
-
+\end{itemize}\
 \textmd{\Large GRADUATE SERVICE and COURSE GRADER POSITIONS}
 
 
@@ -114,7 +111,7 @@ Graduated: **2022**\
 \textsc{\small Dance 168 Dancing Gender: Embodiment, Politics, and Feminist Theory}
 \textbf{\footnotesize Spring, Fall '24, Spring '25}\
 \textsc{\normalsize Curriculum Committee} \textbf{Grad Student Representative}
-\footnotesize Sept 2023 to Present
+\footnotesize Sept 2023 to Present\
 
 \textmd{\Large OTHER EXPERIENCES}
 
