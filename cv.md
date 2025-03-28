@@ -8,7 +8,7 @@ header-includes:
 \textbf{\Huge Christina Dennis}
 \textbf{\emph{\large cldennis@wisc.edu}}\
 
-\underline{\LARGE Education}
+\textmd{\Large EDUCATION}
 
 \textbf{\emph{\large University of Wisconsin-Madison}}
 
@@ -20,7 +20,7 @@ Expected Graduation 2027
 Senior Honors Thesis: \textsl{\footnotesize Incorporating a User-Centered Design Approach into Mapping the Cultural and Natural Resources of the Lower Wisconsin State Riverway}  
 Graduated: **2022**\
 
-\underline{\LARGE Current Research and Experience}
+\textmd{\Large CURRENT RESEARCH AND WORK}
 
 \textbf{\large Gibbs Global Land-Use and Environment Lab (GLUE)} \textsl{Jan 2023 to Present}\
 \textsc{\small Resarch Analyst and Assistant}
@@ -40,7 +40,7 @@ Graduated: **2022**\
 \item \textsf{Developed a database of Wisconsin farms through time using property data-pipeline from tax parcels}
 \end{itemize}
 
-\underline{\LARGE Research, GIS, Cartography Exprience}
+\textmd{\Large OTHER RESEARCH GIS CARTOGRAPHY EXPERIENCE}
 
 \textbf {\large Wisconsin State Cartographer's Office}
 
@@ -85,10 +85,10 @@ Graduated: **2022**\
 \item \textsf{Held community meetings along the riverway to meet with local users}
 \end{itemize}
 
-\underline{\LARGE Awards and Presentations}
+\textmd{\Large AWARDS and PRESENTATIONS}
 
 \begin{itemize}
-\ \textsc{March 2025} \textbf{Trusted Reviewer Status} IOP Publishing
+\item \textsc{March 2025} \textbf{Trusted Reviewer Status} IOP Publishing
 \item \textsc{January 2025} \textbf{Poster Presenter} GLBRC Annual Review \textsf{\footnotesize Madison WI}
 \item \textsc{May 2024} \textbf{Poster Presenter} GLBRC Annual Science Meeting \textsf{\footnotesize Lake Geneva WI}
 \item \textsc{March 2024} \textbf{Presenter} 14th Annual St Louis River Summit \textsf{\footnotesize Superior WI}
@@ -104,7 +104,19 @@ Graduated: **2022**\
 \item \textsc{June 2021} \textbf{Grant Recipient} UW College of Letters and Science Summer Honors Thesis Research Grant \textsf{\footnotesize Madison WI}
 \end{itemize}
 
-\underline{\LARGE Other Experiences }
+\textmd{\Large GRADUATE SERVICE and COURSE GRADER POSITIONS}
+
+
+\textsc{\small Geography 574 Geospatial Database Design and Development}
+\textbf{\footnotesize Fall '24}\
+\textsc{\small Geography 170 Our Digital Globe: An Introduction of GIScience and Its Technology}
+\textbf{\footnotesize Summer '24}\
+\textsc{\small Dance 168 Dancing Gender: Embodiment, Politics, and Feminist Theory}
+\textbf{\footnotesize Spring, Fall '24, Spring '25}\
+\textsc{\normalsize Curriculum Committee} \textbf{Grad Student Representative}
+\footnotesize Sept 2023 to Present
+
+\textmd{\Large OTHER EXPERIENCES}
 
 \textbf {\large National Wildlife Federation}
 
@@ -165,3 +177,5 @@ Graduated: **2022**\
 \item \textsf{Lead solo and group rehearsals, took and gave performance notes at dress rehearsals}
 \item \textsf{Teach kids aged 3-8 ballet technique and storytelling (at Storybook Ballet 2019)}
 \end{itemize}
+
+
