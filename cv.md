@@ -109,8 +109,6 @@ Graduated: **2022**\
 \textbf{\footnotesize Fall '24}\
 \textsc{\small Geography 170 Our Digital Globe: An Introduction of GIScience and Its Technology}
 \textbf{\footnotesize Summer '24}\
-\textsc{\small Dance 168 Dancing Gender: Embodiment, Politics, and Feminist Theory}
-\textbf{\footnotesize Spring, Fall '24, Spring '25}\
 \textsc{\normalsize Curriculum Committee} \textbf{Grad Student Representative}
 \footnotesize Sept 2023 to Present\
 
