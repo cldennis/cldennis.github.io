@@ -86,6 +86,7 @@ Graduated: **2022**\
 \textmd{\Large AWARDS and PRESENTATIONS}
 
 \begin{itemize}
+\item \textsc{April 2025} \textbf{Honorable Mention} NSF GRFP Awards
 \item \textsc{April 2025} \textbf{Selected For Display} Design Lab 2025 Digital Salon Exhibition \textsf{\footnotesize UW-Madison}
 \item \textsc{March 2025} \textbf{Trusted Reviewer Status} IOP Publishing
 \item \textsc{January 2025} \textbf{Poster Presenter} GLBRC Annual Review \textsf{\footnotesize Madison WI}
