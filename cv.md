@@ -27,6 +27,7 @@ Graduated: **2022**\
 \begin{itemize}
 \item \textsf{Built a national property-level database with tax parcel data}
 \item \textsf{Conducting research on US private property conservation practices}
+\item \textsf{Mentoring undergraduate research intern to map national level conservation data}
 \item \textsf{Mentoring undergraduate honors student for property-level US grassland conversion research}
 \end{itemize}
 \textbf{\large Accountability Framework Initiative} \textsl{Jan 2025 to Present}\
