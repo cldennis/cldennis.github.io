@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06445422-030e-4567-992b-9a43d7f82f1a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cv.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research/private.html" beforeDir="false" afterPath="$PROJECT_DIR$/research/private.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +27,12 @@
     &quot;assignee&quot;: &quot;cldennis&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/cldennis/cldennis.github.io.git&quot;,
-    &quot;accountId&quot;: &quot;ae1566e5-590d-47b3-b90f-c3ec7f81a625&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/cldennis/cldennis.github.io.git",
+    "accountId": "d7e6d776-8325-4ee2-b365-918142dac308"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -48,7 +48,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Christina/Desktop/gibbs-lab/cldennis/usgs_slope_032625",
+    "last_opened_file_path": "/Users/christinadennis/Documents/github/cldennis.github.io/cldennis.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,8 +75,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -97,6 +97,7 @@
       <workItem from="1743020608702" duration="44000" />
       <workItem from="1743101295896" duration="827000" />
       <workItem from="1743102439135" duration="12070000" />
+      <workItem from="1752101421668" duration="1036000" />
     </task>
     <servers />
   </component>
