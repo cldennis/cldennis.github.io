@@ -86,6 +86,7 @@ Graduated: **2022**\
 \textmd{\Large AWARDS and PRESENTATIONS}
 
 \begin{itemize}
+\item \textsc{June 2025} \textbf{Presenter} NWF America's Grasslands Conference \textsf{\footnotesize Kearney NE}
 \item \textsc{April 2025} \textbf{Honorable Mention} NSF GRFP Awards
 \item \textsc{April 2025} \textbf{Selected For Display} Design Lab 2025 Digital Salon Exhibition \textsf{\footnotesize UW-Madison}
 \item \textsc{March 2025} \textbf{Trusted Reviewer Status} IOP Publishing
@@ -106,10 +107,14 @@ Graduated: **2022**\
 \textmd{\Large GRADUATE SERVICE and COURSE GRADER POSITIONS}
 
 
+\textsc{\small Geography 342 Geography of Wisconsin}
+\textbf{\footnotesize Summer '25}\
 \textsc{\small Geography 574 Geospatial Database Design and Development}
 \textbf{\footnotesize Fall '24}\
 \textsc{\small Geography 170 Our Digital Globe: An Introduction of GIScience and Its Technology}
 \textbf{\footnotesize Summer '24}\
+\textsc{\small Dance 168 Dancing Gender:Embodiment, Politics and Feminist Theory}
+\textbf{\footnotesize Fall,Spring '24, Spring '25}\
 \textsc{\normalsize Curriculum Committee} \textbf{Grad Student Representative}
 \footnotesize Sept 2023 to Present\
 
