@@ -3,5 +3,5 @@
 
 
 run this to check the pdf before the full run 
-docker run --rm -v "$(pwd -W)":/data pandoc/latex cv.md -o cv.pdf
+ pandoc cv.md -o cv.pdf
 
