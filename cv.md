@@ -96,6 +96,7 @@ Graduated: **2022**\
 \item \textsc{March 2024} \textbf{Presenter} 14th Annual St Louis River Summit \textsf{\footnotesize Superior WI}
 \item \textsc{March 2024} \textbf{Lightning Talk Presenter} SAGE-CCR Lightning Talk event \textsf{\footnotesize Madison WI}
 \item \textsc{February 2024} \textbf{Poster Presenter} UW Data in Action Research Bazaar \textsf{\footnotesize Madison WI}
+\item \textsc{October 2023} \textbf{Presenter} West Lakes Division AAG, \textsf{\footnotesize Chicago IL}
 \item \textsc{October 2023} \textbf{Map Presenter} NACIS Annual Conference, \textsf{\footnotesize Pttsburgh PA}
 \item \textsc{September 2023} \textbf{Grant Recipient} UW Geography Trewartha Research Grant \textsf{\footnotesize Madison WI}
 \item \textsc{May 2023} \textbf{Poster Presenter} GLBRC Annual Science Meeting, \textsf{\footnotesize Lake Geneva WI}
@@ -105,17 +106,19 @@ Graduated: **2022**\
 \item \textsc{February 2022} \textbf{Presenter} WI Land Information Association, Annual Conference \textsf{\footnotesize Elkhart Lake WI}
 \item \textsc{June 2021} \textbf{Grant Recipient} UW College of Letters and Science Summer Honors Thesis Research Grant \textsf{\footnotesize Madison WI}
 \end{itemize}\
-\textmd{\Large GRADUATE SERVICE and COURSE GRADER POSITIONS}
+\textmd{\Large GRADUATE SERVICE and COURSE TA \& GRADER (G) POSITIONS}
 
 
-\textsc{\small Geography 342 Geography of Wisconsin}
+\textsc{\small (TA) Geography 579 GIS and Spatial Analysis}
+\textbf{\footnotesize Fall '25}\
+\textsc{\small (G) Geography 342 Geography of Wisconsin}
 \textbf{\footnotesize Summer '25}\
-\textsc{\small Geography 574 Geospatial Database Design and Development}
+\textsc{\small (G) Geography 574 Geospatial Database Design and Development}
 \textbf{\footnotesize Fall '24}\
-\textsc{\small Geography 170 Our Digital Globe: An Introduction of GIScience and Its Technology}
+\textsc{\small (G) Geography 170 Our Digital Globe: An Introduction of GIScience and Its Technology}
 \textbf{\footnotesize Summer '24}\
-\textsc{\small Dance 168 Dancing Gender:Embodiment, Politics and Feminist Theory}
-\textbf{\footnotesize Fall,Spring '24, Spring '25}\
+\textsc{\small (G) Dance 168 Dancing Gender:Embodiment, Politics and Feminist Theory}
+\textbf{\footnotesize Fall,Spring '24, Fall,Spring '25}\
 \textsc{\normalsize Curriculum Committee} \textbf{Grad Student Representative}
 \footnotesize Sept 2023 to Present\
 
@@ -171,13 +174,13 @@ Graduated: **2022**\
 \item \textsf{Did outreach to Milwaukee-area schools to provide arts education and awareness}
 \end{itemize}
 
-\textbf {\large Central Midwest Ballet School, Storybook Ballet}
+\textbf {\large Central Midwest Ballet School, Mad City Aqua Stars, Storybook Ballet}
 
 \textsc{\small Teacher/Rehearsal Director/Choreographer} \textbf{2019 to Present}
 \begin{itemize}
-\item \textsf{Teach kids aged 8-18 ballet technique and choreography} 
+\item \textsf{Teach kids aged 6-18 ballet technique and choreography} 
 \item \textsf{Choreographed and rehearsed a piece for 2021, 2022 spring showcase}
-\item \textsf{Lead solo and group rehearsals, took and gave performance notes at dress rehearsals}
+\item \textsf{Lead solo and group rehearsals, takes and gives performance notes at dress rehearsals}
 \item \textsf{Teach kids aged 3-8 ballet technique and storytelling (at Storybook Ballet 2019)}
 \end{itemize}
 
