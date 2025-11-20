@@ -14,7 +14,8 @@ header-includes:
 
 **M.S./Ph.D. in Geography**  
 *Advisor:* Holly Gibbs  
-Expected Graduation 2027
+MS Earned December 2025\
+Expected PhD Graduation 2027
 
 **Bachelor of Arts in Cartography & GIS with Honors**  
 Senior Honors Thesis: \textsl{\footnotesize Incorporating a User-Centered Design Approach into Mapping the Cultural and Natural Resources of the Lower Wisconsin State Riverway}  
@@ -44,6 +45,10 @@ Graduated: **2022**\
 
 \textbf {\large Wisconsin State Cartographer's Office}
 
+\textsc{\small Project Assistant} \textbf{Sept 2025 to Present}
+\begin{itemize}
+\item \textsf{Consulting with team and students on creating a public lands layer from parcels}
+\end{itemize}
 \textsc{\small Research Specialist} \textbf{Sept 2022 to Sept 2023}
 \begin{itemize}
 \item \textsf{Led vulnerability assessments with stakeholders in Ashland Co, WI for locally contextual flood risk data}
@@ -87,6 +92,8 @@ Graduated: **2022**\
 \textmd{\Large AWARDS and PRESENTATIONS}
 
 \begin{itemize}
+\item \textsc{October 2025} \textbf{1st Place Winner} Best PhD Paper Presentation, West Lakes AAG \textsf{\footnotesize Milwaukee WI}
+\item \textsc{October 2025} \textbf{Presenter} West Lakes AAG \textsf{\footnotesize Milwaukee WI}
 \item \textsc{June 2025} \textbf{Presenter} NWF America's Grasslands Conference \textsf{\footnotesize Kearney NE}
 \item \textsc{April 2025} \textbf{Honorable Mention} NSF GRFP Awards
 \item \textsc{April 2025} \textbf{Selected For Display} Design Lab 2025 Digital Salon Exhibition \textsf{\footnotesize UW-Madison}
@@ -179,7 +186,7 @@ Graduated: **2022**\
 \textsc{\small Teacher/Rehearsal Director/Choreographer} \textbf{2019 to Present}
 \begin{itemize}
 \item \textsf{Teach kids aged 6-18 ballet technique and choreography} 
-\item \textsf{Choreographed and rehearsed a piece for 2021, 2022 spring showcase}
+\item \textsf{Choreographed and rehearsed a piece for 2021, 2022 spring showcase, 2025 Accolade performance}
 \item \textsf{Lead solo and group rehearsals, takes and gives performance notes at dress rehearsals}
 \item \textsf{Teach kids aged 3-8 ballet technique and storytelling (at Storybook Ballet 2019)}
 \end{itemize}
