@@ -15,7 +15,6 @@ header-includes:
 **M.S./Ph.D. in Geography**  
 *Advisor:* Holly Gibbs  
 MS Earned December 2025\
-Expected PhD Graduation 2027
 
 **Bachelor of Arts in Cartography & GIS with Honors**  
 Senior Honors Thesis: \textsl{\footnotesize Incorporating a User-Centered Design Approach into Mapping the Cultural and Natural Resources of the Lower Wisconsin State Riverway}  
