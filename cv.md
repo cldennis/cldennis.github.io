@@ -162,14 +162,6 @@ Graduated: **2022**\
 \item \textsf{Developed interactive content for use in future planning}
 \end{itemize}
 
-\textbf {\large International Student Conferences}
-
-\textsc{\small American Delegate} \textbf{Sept 2020 to Jan 2020}
-\begin{itemize}
-\item \textsf{Member of 1st annual China American Student Association} 
-\item \textsf{Met with appr. 20 students and guest speakers from the US and China to talk about US-China relations}
-\end{itemize}
-
 \textbf {\large Milwaukee Ballet Company}
 
 \textsc{\small Ballet Dancer} \textbf{Jun 2016 to Jun 2019}
